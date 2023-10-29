@@ -9,7 +9,6 @@ namespace AlgorithmDijkstra.Model
         public override string ToString()
         {
             return Number.ToString();
-            
         }
     }
 }
