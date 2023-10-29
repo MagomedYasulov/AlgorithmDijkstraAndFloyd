@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmDijkstra", "AlgorithmDijkstra.csproj", "{77B5F099-B487-4787-B408-2D21E6C88E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmDijkstraTests", "..\AlgorithmDijkstraTests\AlgorithmDijkstraTests.csproj", "{7F8AD838-6EB7-4267-A9A1-5590853C7D8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77B5F099-B487-4787-B408-2D21E6C88E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B5F099-B487-4787-B408-2D21E6C88E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B5F099-B487-4787-B408-2D21E6C88E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B5F099-B487-4787-B408-2D21E6C88E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F8AD838-6EB7-4267-A9A1-5590853C7D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8AD838-6EB7-4267-A9A1-5590853C7D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8AD838-6EB7-4267-A9A1-5590853C7D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8AD838-6EB7-4267-A9A1-5590853C7D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CE7C99C-72D1-4378-8A36-566FA6EDD745}
+	EndGlobalSection
+EndGlobal
